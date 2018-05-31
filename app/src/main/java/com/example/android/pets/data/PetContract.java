@@ -44,7 +44,7 @@ public final class PetContract {
     *
     * * Type: TEXT
     */
-    public static final String COLUMN_BREED = "breed";
+    public static final String COLUMN_PET_BREED = "breed";
     /**
     * Weight of the pet.
     *
