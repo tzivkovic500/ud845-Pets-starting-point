@@ -121,7 +121,7 @@ public class CatalogActivity extends AppCompatActivity implements
         // Receive the new content URI that will allow us to access Toto's data in the future.
         Uri newUri = getContentResolver().insert(PetEntry.CONTENT_URI, values);
     }
-
+   
     /**
      * Helper method to delete all pets in the database.
      */
